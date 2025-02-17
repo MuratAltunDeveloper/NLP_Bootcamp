@@ -31,6 +31,7 @@ Prompt Engineering and Model Customization
 
 
 6-Applied Projects:
+
 Chatbot Development
 Text Classification
 Summarization
